@@ -68,23 +68,3 @@ Grade: A
 ✅ Add full chain validation via is_chain_valid() function
 
 📚 Educational Purpose
-
-This project is built to help students and educators understand how blockchain can be applied in real-world education scenarios. By learning how records are stored immutably and securely, learners get a hands-on introduction to:
-
-Data structures
-
-Hashing
-
-Chain linking
-
-Blockchain logic
-
-✅ Ready to Use
-
-If you'd like, I can also:
-
-Provide the full working Python script
-
-Add a chain validation function
-
-Package it for easy use (as ZIP or module)
